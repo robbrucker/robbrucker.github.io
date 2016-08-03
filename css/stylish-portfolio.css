@@ -5,7 +5,10 @@ body {
   height: 100%;
   width: 100%;
 }
-
+.h-huge{
+  font-size: 76px;
+  font-family: 'Loved by the King', cursive;
+}
 .vert-text {
   display: table-cell;
   vertical-align: middle;
