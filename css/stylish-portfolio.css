@@ -176,6 +176,11 @@ font-family: 'Loved by the King', cursive;
   padding: 50px 0;
 }
 
+.about-me-blurb {
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size:18px;
+}
+
 /* Services */
 
 .services {
