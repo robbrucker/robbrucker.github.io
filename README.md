@@ -1,2 +1,2 @@
 # robbrucker.github.io
-This is the site for rob.brucker.tech
+This is the site for robbrucker.github.io
